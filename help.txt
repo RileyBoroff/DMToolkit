@@ -3,15 +3,15 @@ h, help:
 exit:
     exits the program
 d:
-    prompts for a name of what you want to damage
+    prompts for a name of what you want to damage and how much damage
 n:
-    moves the indicator to the next return
+    moves the indicator to the next turn
 +:
     adds a new item to the current turn order
 -:
     takes an item away from the current turn order
 s:
-    add a status effect to a item in the turn order
+    add a status effect to an item in the turn order
 
 s-:
-    remove a status effect from a person
+    remove a status effect from an item in the turn order
