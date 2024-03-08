@@ -1,0 +1,17 @@
+h, help:
+    Displays this help menu
+exit:
+    exits the program
+d:
+    prompts for a name of what you want to damage
+n:
+    moves the indicator to the next return
++:
+    adds a new item to the current turn order
+-:
+    takes an item away from the current turn order
+s:
+    add a status effect to a item in the turn order
+
+s-:
+    remove a status effect from a person
