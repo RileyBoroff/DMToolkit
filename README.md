@@ -1,6 +1,6 @@
 # DNDInitiativeTracker
 
-This is a basic tool for tracking initiative, armor class, status effects, and health for Dungeons and Dragons 5th edition.
+This is a basic tool for tracking round number, current turn, initiative, armor class, status effects, and health for Dungeons and Dragons 5th edition.
 
 ## Install
 
